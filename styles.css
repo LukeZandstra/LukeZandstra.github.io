@@ -1,0 +1,94 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    padding: 1em 50px;
+    color: cadetblue;
+    background-color: white;
+    border-bottom: 10px solid darkgray;
+
+}
+footer {
+    padding: 5em 50px .05em;
+    font-size: .8em;
+    color: white;
+    background-color: darkslategray;
+    border-top: 10px solid darkgray;
+
+}
+article {
+    width: 70%;
+    margin: 0 auto;
+    padding: 1em 50px;
+    background: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 50px;
+    overflow: hidden;
+    background-color: darkslategray;
+}
+.navigation{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 5px;
+    text-decoration: none;
+}
+.navigation a{
+    color: white;
+    text-align: center;
+    padding: 10px 5px;
+    text-decoration: none;
+}
+.navigation a:hover{
+    background-color:cadetblue;
+}
+img {
+    display: block;
+    margin: auto;
+    padding: 20px 0;
+    text-align: center;
+    max-width:100%;
+    height: auto;
+}
+p {
+    font-family: Yu Gothic UI Light, "Calibri", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    text-align: justify;
+}
+li {
+    font-family: Yu Gothic UI Light, "Calibri", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    text-align: justify;
+}
+h1 {
+    font-family: Agency FB, "Calibri", serif;
+    font-weight: bold;
+    font-stretch: normal;
+    font-size: 2em;
+}
+h2 {
+    font-family: Agency FB, "Calibri", serif;
+    font-weight: bold;
+    font-stretch: normal;
+    font-size: 1.5em;
+}
+h3 {
+    font-family: Agency FB, "Calibri", serif;
+    font-weight: bold;
+    font-stretch: normal;
+                font-size: 1.25em;
+}
